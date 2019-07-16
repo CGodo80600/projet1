@@ -17,6 +17,10 @@ public
 
 		myLoggerError.log(Level.ERROR, new NullPointerException("error example"));
 		myLoggerError.error("encore une erreur bidon");
+		
+		int x = 5;
+		 String blablabla;
+		
 	}
 
 }
